@@ -1,2 +1,3 @@
 "# JustJava" 
-App for Android
+Simple App for Android
+Order of koffee
